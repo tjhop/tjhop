@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+About me:
+- Senior SRE with a focus on observability.
+- Currently working at NS1/IBM, previously Linode/Akamai.
+- Active contributor to Prometheus, as well as several other projects.
+- Technical reviewer for the books "Prometheus: Up & Running, 2nd Edition" from
+  O'Reilly, and "Mastering Prometheus: Gain expert tips to monitoring your
+infrastructure, applications, and services" from Packt.
+- Strong preferences for working with open source, Linux, and Go.
+
 <!--
 **tjhop/tjhop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
